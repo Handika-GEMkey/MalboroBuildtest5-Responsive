@@ -1,4 +1,4 @@
-onStart("HighwaytoFreedom-beta1"); //folder game name
+onStart("MalboroTestBuild7"); //folder game name
 
 function onStart(project_name) {
     $("#body").css("margin", "0");
