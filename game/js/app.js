@@ -1,4 +1,4 @@
-onStart("Testbuild game 4"); //folder game name
+onStart("Malborogame4"); //folder game name
 
 function onStart(project_name) {
     $("#body").css("margin", "0");
