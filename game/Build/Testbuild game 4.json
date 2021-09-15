@@ -1,0 +1,17 @@
+{
+"companyName": "AntiGravity",
+"productName": "Malboro Racing Challenge",
+"productVersion": "1.0",
+"dataUrl": "Testbuild game 4.data.unityweb",
+"wasmCodeUrl": "Testbuild game 4.wasm.code.unityweb",
+"wasmFrameworkUrl": "Testbuild game 4.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Testbuild game 4.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.30f1"
+}
